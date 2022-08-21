@@ -1,8 +1,8 @@
-# { name } resume
+# resume
 
 ## Sample
 
-https://github.com/kawamataryo/resume
+https://github.com/icle/resume
 
 ## Features
 
