@@ -1,4 +1,10 @@
-# resume
+# My resume
+
+## Data
+
+- [GitHub Pages](https://icle.github.io/resume/)
+- [PDF](https://github.com/icle/resume/releases)
+- [File](https://github.com/icle/resume/blob/master/docs/README.md)
 
 ## Features
 
